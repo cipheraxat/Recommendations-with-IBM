@@ -27,6 +27,6 @@ Given the amount of content available for each article, there are a number of di
 
 Finally, you will complete a machine learning approach to building recommendations. Using the user-item interactions, you will build out a matrix decomposition. Using your decomposition, you will get an idea of how well you can predict new articles an individual might interact with. You will finally discuss which methods you might use moving forward, and how you might test how well your recommendations are working for engaging users.
 
-### VI. Extras & Concluding (EXTRA - NOT REQUIRED)
+### VI. Extras & Concluding 
 
 As other (non-required) work to show off your skills, you can configure your code into a class and deploy your code to a flask app (like in the lessons). Adam will walk you through how he did this on IBM. Alternatively, you could deploy using Heroku. Again, these steps are not required to complete the project, but can help you push your skills and show off your work to the world.
